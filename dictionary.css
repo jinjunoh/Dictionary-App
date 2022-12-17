@@ -42,6 +42,9 @@ body {
     color: #ffffff;
     border-radius: 5px;
 }
+.search-box button:hover{
+    opacity: 50%;
+}
 .result {
     position: relative;
 }
